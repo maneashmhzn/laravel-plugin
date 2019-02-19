@@ -1,0 +1,14 @@
+{
+    "name": "maneash/slider-plugin",
+    "description": "none",
+    "type": "laravel-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manish",
+            "email": "manish.maharjan@innologysolution.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
