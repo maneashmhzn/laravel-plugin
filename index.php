@@ -1,4 +1,4 @@
 <?php
+  echo "hello from plugin";
 
-  echo "Hello World";
  ?>
